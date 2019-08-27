@@ -10,12 +10,13 @@ output: html_document
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
 library(datasauRus)
+
 ```
 
 
 ### Exercise 1
 
-(Type your answer to Exercise 1 here. This exercise does not require any R code.)
+(1,846 rows with 12 columns and 3 variables, Variables include dataset, x, and y values)
 
 ### Exercise 2
 
