@@ -84,8 +84,7 @@ circle_data %>%
 Again, compared with the value of the r value for the dino graph it is extremely close. 
 
 ### Exercise 5
-
-(Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, green C+.)
+Plotting everything
 ```
 ```{r}
 ggplot(data = datasaurus_dozen, aes(x = x, y = y, color = dataset)) +
